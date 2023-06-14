@@ -1,0 +1,2 @@
+image1.jpg\tA cat sitting on a mat, A fluffy cat with blue eyes\n
+image2.jpg\tA beautiful sunset over the mountains\n
